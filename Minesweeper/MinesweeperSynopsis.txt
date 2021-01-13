@@ -1,0 +1,8 @@
+Minesweeper Synopsis
+
+The project creates an entire Minesweeper board and cover it with hand-drawn tiles.
+Upon the game's end, a pop-up menu asks the user to play again. This includes clicking a mine or
+revealing all safe tiles. I had tried to include a feature that would allow the player to place
+"flags" on tiles they knew were mines, but this conflicted with the tile revealing feature.
+
+To test the project, simply run Minesweeper.java and play the game.
